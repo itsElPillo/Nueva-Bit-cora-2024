@@ -460,7 +460,7 @@ button {
 /** about section **/
 
 .about {
-     padding: 130px 0 0px 0;
+     padding: 50px 0 0px 0;
      background-color: #fdfdfd;
      position: relative;
 }
@@ -475,7 +475,7 @@ button {
      content: "";
      width: 56px;
      height: 100%;
-     background: url(../images/afbecro.png);
+     background: url();
      top: 0;
      background-repeat: no-repeat;
      bottom: 0;
@@ -495,7 +495,16 @@ button {
 
 .about .titlepage p {
      color: #080206;
-     font-size: 16px;
+     font-size: 28px;
+     line-height: 40px;
+     font-weight: 410;
+     margin-top: 20px;
+}
+
+
+.about .titlepage2 p {
+     color: #080206;
+     font-size: 18px;
      line-height: 32px;
      font-weight: 400;
      margin-top: 20px;
@@ -718,7 +727,7 @@ button {
 }
 
 .send_btn:hover {
-     background: #ff0000;
+     background: #660099;
      transition: ease-in all 0.5s;
 }
 
