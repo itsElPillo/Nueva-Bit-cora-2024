@@ -514,7 +514,7 @@ button {
 }
 
 .about .read_more {
-     margin-top: 15px;
+     margin-top: 45px;
 }
 
 
@@ -720,7 +720,7 @@ button {
      width: 100%;
      color: #fff;
      height: 89px;
-     margin-top: 40px !important;
+     margin-top: 55px !important;
      transition: ease-in all 0.5s;
      text-transform: uppercase;
      margin: 0 auto;
@@ -747,7 +747,7 @@ button {
 
 .footer {
      background: #fff;
-     margin-top: 45px;
+     margin-top: 55px;
      text-align: center;
 }
 
@@ -785,8 +785,8 @@ ul.location_icon li a:hover {
 }
 
 .copyright {
-     margin-top: 32px;
-     padding-bottom: 20px;
+     margin-top: 40px;
+     padding-bottom: 28px;
      background: #fbfdfd;
 }
 
